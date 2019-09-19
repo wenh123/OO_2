@@ -53,3 +53,4 @@ public static void findAndPrintPairs(int[] list, int target)
 	}
   ```
   
+[![you](nkust.png "png")](https://www.youtube.com/watch?v=ApgSpA-deBY&feature=youtu.be&fbclid=IwAR20g5c-YA3uWm_gCD5WNUdzRVzDcZafVjDOP08J6Cp6hzj5zYLiaAcJIyo "test")
