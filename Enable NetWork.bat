@@ -1,1 +1,0 @@
-netsh interface set interface name="VirtualBox Host-Only Network" admin=enable
